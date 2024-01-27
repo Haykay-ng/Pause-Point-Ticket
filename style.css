@@ -1,0 +1,20 @@
+main{ max-width: 600px;
+    display: block;
+    margin: auto;
+    }
+    section :nth-child(odd){
+        background-color: #eee;
+    }
+
+    .details{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+    }
+
+.heading h2 {
+    background-color: green;
+    padding: 1rem;
+    color: white;
+}
